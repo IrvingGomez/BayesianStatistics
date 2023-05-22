@@ -1,0 +1,194 @@
+id,Country,sdg1_wpc,sdg2_undernsh
+AFG,Afghanistan,,25.6
+ALB,Albania,0.05,3.9
+DZA,Algeria,0.33,2.5
+AND,Andorra,,1.17
+AGO,Angola,53.83,17.3
+ATG,Antigua and Barbuda,,1.17
+ARG,Argentina,0.73,3.9
+ARM,Armenia,1.08,3.4
+AUS,Australia,0.2,2.5
+AUT,Austria,0.35,2.5
+AZE,Azerbaijan,0,2.5
+BHS,"Bahamas, The",,1.17
+BHR,Bahrain,,1.17
+BGD,Bangladesh,3.46,9.7
+BRB,Barbados,2.72,4.1
+BLR,Belarus,0.04,2.5
+BEL,Belgium,0.18,2.5
+BLZ,Belize,14.45,5.9
+BEN,Benin,45.46,7.6
+BTN,Bhutan,0,
+BOL,Bolivia,2.57,12.6
+BIH,Bosnia and Herzegovina,0.06,2.5
+BWA,Botswana,16.52,29.3
+BRA,Brazil,4.11,2.5
+BRN,Brunei Darussalam,,2.5
+BGR,Bulgaria,0.75,3
+BFA,Burkina Faso,36.87,14.4
+BDI,Burundi,74.87,
+CPV,Cabo Verde,2.11,15.4
+KHM,Cambodia,1.51,6.2
+CMR,Cameroon,21.96,5.3
+CAN,Canada,0.23,2.5
+CAF,Central African Republic,69.65,48.2
+TCD,Chad,44.56,31.7
+CHL,Chile,0.03,3.4
+CHN,China,0.14,2.5
+COL,Colombia,5.13,8.8
+COM,Comoros,20.88,
+COD,"Congo, Dem. Rep.",71.74,41.7
+COG,"Congo, Rep.",49.78,37.7
+CRI,Costa Rica,0.17,3.1
+CIV,Cote d'Ivoire,20.08,14.9
+HRV,Croatia,0.39,2.5
+CUB,Cuba,,2.5
+CYP,Cyprus,0.06,2.5
+CZE,Czech Republic,0.09,2.5
+DNK,Denmark,0.16,2.5
+DJI,Djibouti,12.09,16.2
+DMA,Dominica,,5.6
+DOM,Dominican Republic,0.18,8.3
+ECU,Ecuador,3.59,12.4
+EGY,"Egypt, Arab Rep.",1.93,5.4
+SLV,El Salvador,0.71,8.5
+GNQ,Equatorial Guinea,,
+ERI,Eritrea,,
+EST,Estonia,0.01,2.5
+SWZ,Eswatini,32.24,11.6
+ETH,Ethiopia,5.79,16.2
+FJI,Fiji,0.33,5.6
+FIN,Finland,0.09,2.5
+FRA,France,0.16,2.5
+GAB,Gabon,3.34,15.7
+GMB,"Gambia, The",6.49,13.6
+GEO,Georgia,1.44,8.7
+DEU,Germany,0.24,2.5
+GHA,Ghana,9.65,6.1
+GRC,Greece,0.29,2.5
+GRD,Grenada,,
+GTM,Guatemala,6.49,16.8
+GIN,Guinea,38.7,
+GNB,Guinea-Bissau,65.39,
+GUY,Guyana,2.37,5.2
+HTI,Haiti,21.82,46.8
+HND,Honduras,16.76,13.5
+HUN,Hungary,0.43,2.5
+ISL,Iceland,0.09,2.5
+IND,India,5.91,15.3
+IDN,Indonesia,1.82,6.5
+IRN,"Iran, Islamic Rep.",0.07,5.5
+IRQ,Iraq,3.99,37.5
+IRL,Ireland,0.11,2.5
+ISR,Israel,0.22,2.5
+ITA,Italy,0.95,2.5
+JAM,Jamaica,1.72,7.7
+JPN,Japan,0.4,2.5
+JOR,Jordan,0.02,9.5
+KAZ,Kazakhstan,0,2.5
+KEN,Kenya,17.43,24.8
+KIR,Kiribati,,4.1
+PRK,"Korea, Dem. Rep.",,42.4
+KOR,"Korea, Rep.",0.35,2.5
+KWT,Kuwait,,2.5
+KGZ,Kyrgyz Republic,0.91,7.2
+LAO,Lao PDR,10.6,5.3
+LVA,Latvia,0.25,2.5
+LBN,Lebanon,0.11,9.3
+LSO,Lesotho,30.13,23.5
+LBR,Liberia,41.81,38.9
+LBY,Libya,,
+LIE,Liechtenstein,,1.17
+LTU,Lithuania,0.46,2.5
+LUX,Luxembourg,0.27,2.5
+MDG,Madagascar,76.38,43.2
+MWI,Malawi,69.73,17.3
+MYS,Malaysia,0,3.2
+MDV,Maldives,0.08,
+MLI,Mali,36.34,10.4
+MLT,Malta,0.08,2.5
+MHL,Marshall Islands,,
+MRT,Mauritania,4.46,9.1
+MUS,Mauritius,0.27,6.2
+MEX,Mexico,1.52,7.2
+FSM,"Micronesia, Fed. Sts.",,
+MDA,Moldova,0.05,
+MCO,Monaco,,1.17
+MNG,Mongolia,0.15,4.3
+MNE,Montenegro,1.82,2.5
+MAR,Morocco,0.2,4.2
+MOZ,Mozambique,59.85,31.2
+MMR,Myanmar,1.72,7.6
+NAM,Namibia,23.96,19.8
+NRU,Nauru,,1.17
+NPL,Nepal,6.66,4.8
+NLD,Netherlands,0.19,2.5
+NZL,New Zealand,0.01,2.5
+NIC,Nicaragua,2.39,19.3
+NER,Niger,31.41,
+NGA,Nigeria,32.82,14.6
+MKD,North Macedonia,2.03,2.7
+NOR,Norway,0.27,2.5
+OMN,Oman,,8.2
+PAK,Pakistan,4.81,12.9
+PLW,Palau,,1.17
+PAN,Panama,0.81,7.5
+PNG,Papua New Guinea,29.78,24.6
+PRY,Paraguay,0.58,9.2
+PER,Peru,1.57,8.7
+PHL,Philippines,4.49,9.4
+POL,Poland,0.02,2.5
+PRT,Portugal,0.28,2.5
+QAT,Qatar,,1.17
+ROU,Romania,1.43,2.5
+RUS,Russian Federation,0.01,2.5
+RWA,Rwanda,47.52,35.2
+WSM,Samoa,0.6,4.6
+SMR,San Marino,,1.17
+STP,Sao Tome and Principe,33.78,11.9
+SAU,Saudi Arabia,,3.9
+SEN,Senegal,30.71,7.5
+SRB,Serbia,0.04,3.9
+SYC,Seychelles,,1.17
+SLE,Sierra Leone,36.06,26.2
+SGP,Singapore,0.84,1.17
+SVK,Slovak Republic,0.55,4
+SVN,Slovenia,0.07,2.5
+SLB,Solomon Islands,25.23,16.5
+SOM,Somalia,55.53,59.5
+ZAF,South Africa,26.73,6.5
+SSD,South Sudan,84.53,
+ESP,Spain,0.69,2.5
+LKA,Sri Lanka,0.26,6.8
+KNA,St. Kitts and Nevis,,1.17
+LCA,St. Lucia,4.8,
+VCT,St. Vincent and the Grenadines,,5.6
+SDN,Sudan,16.34,12.3
+SUR,Suriname,8.61,8.7
+SWE,Sweden,0.61,2.5
+CHE,Switzerland,0.15,2.5
+SYR,Syrian Arab Republic,,
+TJK,Tajikistan,0.99,
+TZA,Tanzania,46.53,25.1
+THA,Thailand,0,8.2
+TLS,Timor-Leste,26.61,22.6
+TGO,Togo,44.36,20.4
+TON,Tonga,0.11,
+TTO,Trinidad and Tobago,0.31,6.7
+TUN,Tunisia,0.21,3
+TUR,Turkey,0.01,2.5
+TKM,Turkmenistan,0.56,4.1
+TUV,Tuvalu,,
+UGA,Uganda,34.41,
+UKR,Ukraine,0.04,2.5
+ARE,United Arab Emirates,0.23,3.7
+GBR,United Kingdom,0.23,2.5
+USA,United States,0.44,2.5
+URY,Uruguay,0,2.5
+UZB,Uzbekistan,4.59,2.5
+VUT,Vanuatu,13.77,9.3
+VEN,"Venezuela, RB",53.45,27.4
+VNM,Vietnam,0.77,6.7
+YEM,"Yemen, Rep.",,45.4
+ZMB,Zambia,58.89,
+ZWE,Zimbabwe,,
